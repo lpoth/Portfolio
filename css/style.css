@@ -1,0 +1,68 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    font-family: 'Domine', serif;
+    font-weight: bold;
+}
+
+p{
+    color: #e7da10;
+    font-size: 12px;
+    line-height: 16pt;
+}
+
+a{
+    color: #e7da10;
+    font-size: 12px;
+    line-height: 16pt;
+    font-weight: bolder;
+}
+
+a:hover {
+    color: black;
+}
+
+.main {
+    padding-top: 30%; 
+}
+
+.rechts {
+    padding-left: 5%
+}
+
+#inleiding {
+    padding-top: 5%;
+}
+
+.nav a{
+    background-color: #e7da10;
+    color: black;
+    text-transform: uppercase;
+    font-size: 12px;
+    height: 10px;
+    padding-left: 0px;
+}
+
+.huidig {
+    font-weight: bold;
+}
+
+.logo {
+    margin-left: -14px;
+    margin-bottom: -30px;
+    margin-top: -20px;
+    width:40%;
+}
+
+.link {
+    font-weight: bold;
+}
+
+.links {
+    background-image: url("../images/Lotte.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 20% 15%; 
+}
