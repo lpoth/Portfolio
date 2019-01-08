@@ -66,3 +66,9 @@ a:hover {
     background-size: cover;
     background-position: 20% 15%; 
 }
+
+#contact {
+    background-image: url("../images/Thee.jpg");
+    background-size: 150%;
+    background-position: 30% 65%; 
+}
