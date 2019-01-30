@@ -60,7 +60,7 @@ a:hover {
     font-weight: bold;
 }
 
-.links {
+#over {
     background-image: url("../images/Lotte.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -70,5 +70,65 @@ a:hover {
 #contact {
     background-image: url("../images/thee.jpg");
     background-size: 150%;
-    background-position: 30% 65%; 
+    background-position: 50% 75%; 
+}
+
+.blokjes{
+    margin-left: -120px;
+    margin-top: -20%;
+}
+
+.rijblokjes {
+    display: inline-block;
+    height:80px;
+    width: 80px;
+    margin-right: 20px;
+}
+
+#facebook {
+    background-image: url("../images/facebook.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#instagram {
+    background-image: url("../images/instagram.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#behance {
+    background-image: url("../images/behance.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#parfum {
+    background-image: url("../images/Parfum.jpg");
+    background-size: 120%;
+    background-position: 70% 100%; 
+}
+
+#vic {
+    background-image: url("../images/vic.jpg");
+    background-size: 115%;
+    background-position: 50% 75%; 
+}
+
+#metoo {
+    background-image: url("../images/metoo.jpg");
+    background-size: 100%;
+    background-position: 90% 75%; 
+}
+
+#africa {
+    background-image: url("../images/Africa.jpg");
+    background-size: 100%;
+    background-position: 40% 10%; 
+}
+
+#brainstorm {
+    background-image: url("../images/brainstorm.jpg");
+    background-size: 115%;
+    background-position: 90% 10%; 
 }
