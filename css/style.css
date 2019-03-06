@@ -132,3 +132,36 @@ a:hover {
     background-size: 115%;
     background-position: 90% 10%; 
 }
+
+#uitnodiging {
+    background-image: url("../images/Uitnodiging1.jpg");
+    background-size: 115%;
+    background-position: 90% 10%; 
+}
+
+#uitnodiging2 {
+    background-image: url("../images/Uitnodiging2.jpg");
+    background-size: 115%;
+    background-position: 90% 10%; 
+    margin-top: 30px;
+}
+
+#breda {
+    background-image: url("../images/Breda1.jpg");
+    background-size: 115%;
+    background-position: 90% 10%; 
+}
+
+#breda2 {
+    background-image: url("../images/Breda2.jpg");
+    background-size: 115%;
+    background-position: 90% 100%;
+    margin-top: 30px;
+}
+
+#breda3 {
+    background-image: url("../images/Breda3.jpg");
+    background-size: 115%;
+    background-position: 90% 10%; 
+    margin-top: 30px;
+}
